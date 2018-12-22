@@ -28,6 +28,12 @@
 	   4 - Curso
 	   5 - Matérias
 
-   Author		: Thiago Christopher
-   Data de criação	: 22/12/2018
-   Data de término	: dd/mm/aaaa
+   Versão Alfa -		
+   	Author		: Thiago Christopher
+   	Data de criação	: 22/12/2018
+   	Data de término	: dd/mm/aaaa
+
+   Versão Final -
+   	Autor		: Thiago Christopher
+	Data de criação	: 22/12/2018
+	Data de término	: dd/mm/aaaa
