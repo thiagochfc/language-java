@@ -18,11 +18,15 @@ import javafx.scene.layout.VBox;
 /**
  * *****************************************************************************
  *
- * Sistema : Workshop Finalidade : Classe responsável pelo controller da
- * MainView Data de criação : 30/12/2018 Autor : Thiago Christopher
+ * Sistema : Workshop Finalidade : Classe responsável pelo controller da 
+ *                                  MainView 
+ * Data de criação : 30/12/2018 
+ * Autor : Thiago Christopher
  * ============================================================================
  *
- * Alterado por : Finalidade : Autor :
+ * Alterado por : 
+ * Finalidade : 
+ * Autor :
  *
  *****************************************************************************
  */
