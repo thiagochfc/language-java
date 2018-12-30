@@ -1,6 +1,8 @@
 package model.services;
 
+import gui.util.Alerts;
 import java.util.List;
+import javafx.scene.control.Alert;
 import model.dao.DaoFactory;
 import model.dao.DepartmentDao;
 import model.entities.Department;
@@ -25,6 +27,14 @@ public class DepartmentService {
     
     public List<Department> findAll() {
         return dao.findAll();
+    }
+    
+    public void saveOrUpdate(Department obj) {
+        if(obj.getId() == null) {
+            dao.insert(obj);
+        } else {
+            dao.update(obj);
+        }
     }
     
 }
